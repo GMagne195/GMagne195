@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GMagne195, you can call me Greg.
+- 👀 I’m interested in quantitative Macroeconomics and I plan on doing a PhD in France specialized in Labor Macroeconomics.
+- To be more specific, my main field of interest is related to firms' & workers' dynamics in a frictional labor market, with job-to-job transition and I am applying this interest on the effect of environemental policies.
+- 🌱 I’m currently learning on various techniques related to solutions to big HJB equations, KFE equations.
+- 📫 You can reach me by email: Gregoire.magne195@gmail.com
